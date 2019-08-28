@@ -1,0 +1,5 @@
+= Personal Website
+
+This repository contains code to generate my personal website.
+
+I forked the template from `academicpages`. https://github.com/academicpages/academicpages.github.io[Click here to learn more.]
