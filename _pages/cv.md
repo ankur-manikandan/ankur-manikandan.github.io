@@ -13,7 +13,7 @@ redirect_from:
 Work experience
 -----
 * **Data Scientist**, [Quantiply Corporation](https://www.quantiply.com/) (May 2017 - Present)
-* **Head Data Scientist**, [Fathom AI](https://www.fathomai.com/) (Jul. 2016 - Mar. 2017)
+* **Head Data Scientist, Biomechanics**, [Fathom AI](https://www.fathomai.com/) (Jul. 2016 - Mar. 2017)
 
 Awards
 -----
