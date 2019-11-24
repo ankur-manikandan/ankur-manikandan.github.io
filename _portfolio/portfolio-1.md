@@ -1,6 +1,6 @@
 ---
-title: "Data Engineering"
-excerpt: "Repository containing tutorials to develop Data Engineering skills."
+title: "ASA DataFest 2016"
+excerpt: "<br/><img src='/images/asa datafest.png'>"
 collection: portfolio
 ---
 
